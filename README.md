@@ -1,4 +1,4 @@
-# cime
+# Cime
 Medical appointments
 
 Create medical appointments using a intuitive interface. It's a part of a bigger project to manage a medical center.
