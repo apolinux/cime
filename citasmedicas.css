@@ -1,0 +1,187 @@
+*{
+	font-size:12pt Verdana, Arial, sans-serif;
+}
+table {
+	font: 12pt Verdana, arial, sans-serif;
+}
+
+body {
+	color: #333333;
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12pt;
+}
+.cuerpo1 {
+	color: #333333;
+	background-color: #FFFFFF;
+	background-image:   url("imagenes/control de citas2_topstrip1.png");
+	background-repeat: repeat-x;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+}
+p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+	
+#content ul {
+	color: #333333;/*themecolour6%0;*/
+	margin-top: 0px;
+	margin-bottom: 0px;
+	list-style-image: url("imagenes/control de citas2_bullet.gif");
+}
+	
+#content blockquote {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333;
+	margin-right: 0px;
+}
+
+#content ol {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #333333
+}
+#header {
+	position: absolute;
+	height: auto;
+	width: auto;
+	left: 0px;
+	top: 0px;
+	visibility: visible;
+}
+
+#logo {
+	position: absolute;
+	height: auto;
+	width: auto;
+	left: 10px;
+	top: 165px;
+}
+
+#hnavigation {
+	position: absolute;
+	height: auto;
+	left: 0px;
+	top: 71px;
+	z-index: 5;
+	background-color: #3c9bf7;/*themecolour1;*/
+}
+
+#vnavigation {
+	position: absolute;
+	height: auto;
+	width: auto;
+	left: 20px;
+	top: 320px;
+}
+
+.imageborder {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+}
+
+#imagebar {
+	position: absolute;
+	height: auto;
+	width: auto;
+	right: 60px;
+	top: 25px;
+	z-index: 6;
+}
+.imagebox {
+	border: 1px solid #FFFFFF;
+}
+
+#content {
+	position: absolute;
+	height: auto;
+	width: auto;
+	left: 0px;
+	top: 98px;
+	right: 60px;
+}
+
+h1 {
+	font-size: 16px;
+	color: #005db6;/*themecolour5;*/
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
+h2 {
+	font-size: 16px;
+	color: #000000;/*themecolour6%0;*/
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
+a {
+	text-decoration: none;
+	text-transform: capitalize;
+	font-weight: bold;
+ } 
+
+a:link {
+	color: #0033FF ;
+	
+}
+a:visited {
+	color: #0033FF ;
+}
+a:hover {
+	color: #0099CC;
+}
+
+.content {
+	padding-left: 20px;
+	text-decoration: none;
+}
+
+.td_sencilla{
+	border: 1px solid #CCCCCC;
+}.th_sencilla {
+	border: 1px solid #CCCCCC;
+	background-color: #999999;
+}
+/* para los dias festivos en jscalendar */
+.special { background-color: #FFFFFF; color: #FF0000; }
+.borde_delgado{
+	line-height: 12px;
+	font-family: sans-serif, Verdana, Arial, Helvetica,;
+	font-size: 11px;
+	border: 1px solid #B4B4B4;
+}.span_enlace {
+	font-weight: bold;
+	color: #0033FF ;
+	cursor: pointer;
+	text-transform: capitalize;
+}
+.span_chico {
+	font-size: 11px;
+	font-family: tahoma,verdana,sans-serif;
+}
+
+/* color: #000066; */.cga {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: italic;
+	line-height: 11px;
+	font-weight: lighter;
+	text-transform: capitalize;
+	color: #330033;
+}
+
+input.enlace{
+	border:0; 
+	background-color: #FFFFff; 
+	color: blue; 
+	cursor:hand;
+	cursor : pointer;
+	text-decoration: none;
+	text-transform: capitalize;
+	font-family: Verdana, Arial, sans-serif;	
+	font-size: 12pt;
+	font-weight: bold;
+}
