@@ -42,6 +42,3 @@ Comments, thanks, complains or cheers, contact to apolinux@gmail.com .
 Twitter: [@apolinux](https://twitter.com/apolinux)
 
 Facebook: [Apolinux](https://www.facebook.com/Apolinux-101998798154863)
-
-
-
